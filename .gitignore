@@ -14,5 +14,5 @@ src/.vs/slnx.sqlite
 *.vs
 .vs/slnx.sqlite
 *.gif
-/media/
+/demo_media/
 /gest/
